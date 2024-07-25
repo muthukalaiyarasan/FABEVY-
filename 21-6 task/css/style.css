@@ -1,0 +1,23 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+
+}
+.center{
+     background-image:linear-gradient(#6168c794,#6168c794),url('../group.jpg');
+     background-size:cover;
+	 
+	 /* background-color:green; */
+	 
+}
+input:focus{
+	outline:none!important;
+	
+}
+input{
+	border-left:none;
+	border-right:none;
+	border-top:none;
+	border-bottom:1px solid gray;
+}

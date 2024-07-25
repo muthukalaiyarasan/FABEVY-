@@ -1,0 +1,36 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+
+}
+.page a{
+	text-decoration:none;
+	
+}
+.page input{
+	padding-left:7px;
+	margin-left:127px;
+	margin-top:27px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.page input:hover{
+	 border-color:blue;
+}
+
+.create a{
+	 width:60%;
+	 background-color:green;
+	 
+}
+.create{
+	margin-bottom:25px;
+}
+.card{
+	height:100%;
+}
+button{
+	text-align:center;
+	margin-left:10px;
+}
